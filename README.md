@@ -1,1 +1,1 @@
-# shopify-codecano
+# shopify-codecano-development
